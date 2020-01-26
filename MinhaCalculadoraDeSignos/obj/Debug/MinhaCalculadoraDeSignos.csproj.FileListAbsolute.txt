@@ -1,0 +1,6 @@
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe.config
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\bin\Debug\MinhaCalculadoraDeSignos.pdb
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.csprojAssemblyReference.cache
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.exe
+C:\Users\dmari\source\repos\MinhaCalculadoraDeSignos\MinhaCalculadoraDeSignos\obj\Debug\MinhaCalculadoraDeSignos.pdb
